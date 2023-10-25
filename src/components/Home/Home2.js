@@ -17,15 +17,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            In the vast world of Full Stack Development, my compass is driven by pure passion.
-              <br />
-              <br /> With tools like JavaScript, TypeScript, and a hint of HTML/CSS elegance ✨, I venture into web landscapes both known and uncharted.
+            In the expansive domain of Full Stack Development, my direction is guided by an unwavering passion for the craft. 🧭              <br />
+              <br /> Leveraging technologies such as JavaScript, TypeScript, along with the refined aesthetics of HTML and CSS, I traverse through familiar and novel terrains of the web landscape. 
               <i>
                 {/* <b className="purple"> C++, Javascript and Go. </b> */}
               </i>
               <br />
               <br />
-              Every backend note with Node.js 🎵 and every front-end chord with React and Angular 🚀, is played with heart. My projects? They're the melodies of my devotion 🎸. If you're seeking passion-infused coding, let's craft some memorable digital tunes together! 🎧              <i>
+              My skillset is fortified with the MERN stack, MongoDB for versatile database management, SQL for structured query language, Express.js for robust backend development, SCSS for sophisticated styling, PHP for server-side scripting, and Regex for pattern matching and text processing. 💻🛠<i>
+              </i>
+              <br />
+              <br />
+              Each backend interaction facilitated by Node.js, and each front-end implementation via React and Angular, is meticulously orchestrated. My projects stand as a testament to my dedication to the craft. 🎵 For those who value passion-driven coding, I am eager to collaborate and create impactful digital experiences. Let's turn ideas into reality! 💡🤝<i>
                 {/* <b className="purple">Web Technologies and Products </b> and */}
                 {/* also in areas related to{" "} */}
                 {/* <b className="purple">
